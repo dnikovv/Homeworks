@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4910e907-a144-404b-9255-e9197369c756" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task7.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NyX4f7HEhGYtZMFjS4MnBlQCk8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JQA Academy/JQALearn&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jqa.academy.homework1.Task2" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jqa.academy.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jqa.academy.homework1.Task5" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jqa.academy.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jqa.academy.homework1.Task6" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jqa.academy.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jqa.academy.homework1.Task7" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jqa.academy.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jqa.academy.homework1.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jqa.academy.homework1.Task1" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jqa.academy.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.jqa.academy.homework1.Task1" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4910e907-a144-404b-9255-e9197369c756" name="Changes" comment="" />
+      <created>1680637107451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680637107451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
