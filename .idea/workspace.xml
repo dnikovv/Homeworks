@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4910e907-a144-404b-9255-e9197369c756" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework1/Task7.java" afterDir="false" />
+    <list default="true" id="4910e907-a144-404b-9255-e9197369c756" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/src/jqa/academy/homework2/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,5 +133,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
