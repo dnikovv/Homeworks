@@ -7,8 +7,10 @@ public class Task1 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number");
         int num1 = sc.nextInt();
+
         System.out.println("Enter second number");
         int num2 = sc.nextInt();
+
         System.out.println("The addition of the two numbers is " + addition(num1, num2));
         System.out.println("The mean of the two numbers is " + numbersMean(num1, num2));
 
