@@ -14,7 +14,6 @@ public class Task6 {
         }
 
     }
-
     public static boolean equals(int[] a, int[] b) {
         if (a.length != b.length) {
             return false;
