@@ -1,4 +1,4 @@
-package jqa.academy.Homework3;
+package jqa.academy.homework3;
 
 public class Car {
     int year;
@@ -23,7 +23,7 @@ public class Car {
 
     void useFuel(int fuel) {
         if (fuel > freeFuel) {
-            System.out.println("Not enough fuel");
+            System.out.println("Not enough Fuel");
         } else {
             freeFuel -= fuel;
         }

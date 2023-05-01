@@ -1,4 +1,4 @@
-package jqa.academy.Homework3;
+package jqa.academy.homework3;
 
 public class CarPerson {
 
