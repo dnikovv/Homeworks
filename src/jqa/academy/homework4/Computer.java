@@ -5,18 +5,27 @@ public class Computer {
     double price;
     String operationSystem;
 
-    Computer(int year, double price, String operationSystem){
+    Computer(int year, double price, String operationSystem) {
         this.year = year;
         this.price = price;
         this.operationSystem = operationSystem;
     }
 
-    int comparePrice(Computer compare){
-        if(this.price > compare.price){
+    public double getPrice() {
+        return price;
+    }
+
+    public double setPrice(double price) {
+        this.price = price;
+        return price;
+    }
+
+    int comparePrice(Computer compare) {
+        if (this.price > compare.price) {
             return -1;
         } else if (this.price < compare.price) {
             return 1;
-        }else {
+        } else {
             return 0;
         }
     }
